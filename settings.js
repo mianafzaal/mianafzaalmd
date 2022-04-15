@@ -11,18 +11,18 @@ global.APIKeys = {
 }
 
 //===> UBAH DISINI
-global.namaowner = 'Ryuuka Team' //Ganti Jadi Namamu
-global.owner = ['6285609233482','6283891921787'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6285609233482' //Owner Utama Istilahnya
+global.namaowner = '➺𝄟≛⃝𝐌𝐈𝐀𝐍💌⃝⃝❥͜͡🏵️' //Ganti Jadi Namamu
+global.owner = ['923430436852','923430436852'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '923430436852' //Owner Utama Istilahnya
 global.namabot = 'RyuBotz MD' //Ganti Jadi Nama Botmu
-global.packname = '© Ryubotz MD' //Sticker Weem
-global.author = 'Ryubotz By Ryuuka Team' //Sticker Weem
-global.webme = 'https://api-ryubotz.herokuapp.com'
+global.packname = '© ➺𝄟≛⃝𝐌𝐈𝐀𝐍💌⃝⃝❥͜͡🏵️' //Sticker Weem
+global.author = 'Ryubotz By Mian Team' //Sticker Weem
+global.webme = 'https://instagram.com/mian_savage_boy?utm_medium=copy_link'
 global.sessionName = 'session'
 global.bg_welcome = 'https://telegra.ph/file/528b594d5d91c08482515.jpg' //Max 30kb Agar Tidak Delay
-global.youtube = 'https://youtube.com/c/RyuukaBotz'
-global.github = 'https://github.com/R-TEAM94'
-global.instagram = 'https://instagram.com/fandyyy._'
+global.youtube = 'lol😀'
+global.github = 'lol😁😈'
+global.instagram = 'https://instagram.com/mian_savage_boy?utm_medium=copy_link'
 
 //===> BACKGROUND SETIAP MENU
 global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
